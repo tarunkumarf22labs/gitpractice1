@@ -8,3 +8,8 @@ body {
     color: black;
     height: 100vh;
 }
+
+h1{
+    background-color: red;
+    color: aqua;
+}
